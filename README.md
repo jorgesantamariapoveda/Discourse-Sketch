@@ -8,5 +8,5 @@ Diseñar, mediante la herramienta **Sketch**, un par de pantallas para una aplic
 
 ##### Capturas de pantallas
 
-![c1](./screen/c1.png "C1")
-![c2](./screen/c2.png "C2")
+![c1](./screens/c1.png "C1")
+![c2](./screens/c2.png "C2")
