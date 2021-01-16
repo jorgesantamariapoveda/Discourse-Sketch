@@ -1,5 +1,5 @@
 ## Objetivo
-Aplicar y entender que el diseño y funcionalidad de una aplicación móvil es tanto o más importante que su codificación.
+Aplicar y entender que el diseño (UI) y funcionalidad (UX) de una aplicación móvil es tanto o más importante que su codificación.
 
 Para ello se han diseñado un par de pantallas por medio de la herramienta **Sketch**.
 
