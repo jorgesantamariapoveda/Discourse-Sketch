@@ -1,10 +1,10 @@
-# UX Móvil & Diseño de UI
+## Objetivo
+Aplicar y entender que el diseño y funcionalidad de una aplicación móvil es tanto o más importante que su codificación.
 
-Diseñar, mediante la herramienta **Sketch**, un par de pantallas para una aplicación de mensajería.
+Para ello se han diseñado un par de pantallas por medio de la herramienta **Sketch**.
 
 ## Tecnologías
-
-- Sketch
+- [Sketch](https://www.sketch.com/)
 
 ##### Capturas de pantallas
 
